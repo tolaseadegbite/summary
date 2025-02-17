@@ -57,4 +57,4 @@ group :development do
 end
 
 
-gem "css-zero", "~> 1.0"
+gem "css-zero", "~> 1.1"
